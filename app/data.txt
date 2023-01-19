@@ -1,0 +1,3 @@
+healthy;http://192.168.75.83:5000/static/h38QDJ8l.png
+healthy;http://127.0.0.1:5000/static/663s9QV0.png
+healthy;http://127.0.0.1:5000/static/5bL2s10h.png
