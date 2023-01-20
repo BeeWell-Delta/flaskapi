@@ -1,3 +1,4 @@
 app/model6.pt
 app/__pycache__/
 venv/
+static/*

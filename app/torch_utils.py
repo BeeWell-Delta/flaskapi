@@ -114,7 +114,7 @@ model.load_state_dict(torch.load(PATH, map_location=torch.device('cpu')))
 model.eval()
 
 
-classes = ['Varroa, Small Hive Beetles', 'ant problems', 'few varrao, hive beetles', 'healthy', 'hive being robbed', 'missing queen']
+classes = ['Small Hive Beetles', 'Ant Problems', 'Varrao Mites', 'Healthy', 'Hive Being Robbed']
 
 def transform_image(image_bytes):
 
